@@ -60,6 +60,7 @@ than more structured and compiled languages such as C and C++.
 # Memory Management 
 In Java, memory management is the process of allocation and de-allocation of objects, called Memory management. 
 Java does memory management automatically. Java uses an automatic memory management system called a garbage collector.
+*in java, memory management is process of allocation and deallocation of objects, called memory management
 
 # Stack Memory vs Heap Memory:
 1. Varaibles are stored in stack memory.
